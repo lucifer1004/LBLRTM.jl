@@ -1,0 +1,3 @@
+#!/bin/bash
+
+deno run --unstable --allow-run ./scripts/data_formatter.ts
